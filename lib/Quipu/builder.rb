@@ -1,5 +1,5 @@
 module Quipu
-	class MyPrime
+	class Builder
 		def superprime(firstNum,lastNum)
 
 			#firstNum=gets.to_i
